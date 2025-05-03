@@ -8,7 +8,7 @@ import time
 import getpass
 
 def instagram_auto_unlike():
-    # Set up Chrome options
+   
     chrome_options = Options()
     chrome_options.add_argument("--start-maximized")
     
